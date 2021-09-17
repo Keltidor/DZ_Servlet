@@ -43,7 +43,6 @@ public class PostRepository {
     }
 
 
-
     public void removeById(long id) {
         listOfAllPosts.remove(id);
     }
